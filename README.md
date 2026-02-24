@@ -2,7 +2,7 @@
 
 > **补档声明**  
 > 备份 [影视飓风](https://space.bilibili.com/946974) 与 [极客湾](https://space.bilibili.com/25876945) 被下架的评测视频。  
-> *有本事你告我 DMCA，傻逼厂商。*
+> *有本事你告我 DMCA，操你妈傻逼厂商。*
 
 ---
 
