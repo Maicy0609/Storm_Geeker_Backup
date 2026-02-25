@@ -2,7 +2,7 @@
 
 > **补档声明**  
 > 备份 [影视飓风](https://space.bilibili.com/946974) 与 [极客湾](https://space.bilibili.com/25876945) 被下架的评测视频。  
-> *有本事你告我 DMCA，操你妈傻逼厂商。*
+> *操你妈傻逼厂商*
 
 ---
 
@@ -16,3 +16,9 @@
 ---
 
 **备用下载方式**：如果代理失效，请前往 [Releases 页面](https://github.com/Maicy0609/Storm_Geeker_Backup/releases) 直接下载。
+
+---
+
+## 贴心的网页
+> [Github Pages](https://maicy0609.github.io)
+> [大陆专属](scout-qcwu.upma.site)
